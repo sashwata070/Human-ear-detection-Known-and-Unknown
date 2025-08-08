@@ -1,1 +1,1 @@
-# Huuman-ear-detection-Known-and-Unknown
+# Human-ear-detection-Known-and-Unknown
