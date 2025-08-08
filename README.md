@@ -1,4 +1,4 @@
-# It presents a deep learning-based framework for robust 2D ear recognition, designed to address the challenges of open
+ It presents a deep learning-based framework for robust 2D ear recognition, designed to address the challenges of open
 set biometric identification. Traditional 2D ear recognition methods often suffer from variations in pose, lighting, and occlusion.
  To overcome these limitations, we leverage 3D depth information and employ a Soft-Max, Open-Max architecture that integrates
  EfficientNet-B0 as a pretrained feature extractor. Image paths and labels for both known and unknown classes are loaded
